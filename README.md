@@ -5,7 +5,7 @@ Linux desktop entry file to generate executable icon after building from source
 
 [Tarrasch Chess GUI](https://github.com/billforsternz/tarrasch-chess-gui) is described by its developer as a "simple desktop chess workbench", enabling PGN production (with its own database), multiple UCI for analysis and play (why does anyone do that these days).
 
-I've found Tarrasch GUI to be the best chess writing tool available for desktops (on Android, Chess PGN Master is shockingly good). Tarrasch GUI was a Windows project at first, eventually finding its way to Macintosh and Linux. 
+I've found Tarrasch GUI to be the best chess writing tool available for desktops (on Android, [Chess PGN Master](http://pgnmaster.kalab.com) is shockingly good). Tarrasch GUI was a Windows project at first, eventually finding its way to Macintosh and Linux. 
 
 ## What's this desktop file?
 
