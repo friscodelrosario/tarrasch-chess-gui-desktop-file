@@ -19,9 +19,9 @@ There's a utility for verifying desktop files: [desktop-file-validate](https://m
 [Desktop Entry]
 Version=1.0
 Name=TarraschChessGUI
-Comment=Surrender Dorothy
-Exec=/home/frisco/tarrasch-chess-gui/tarrasch
-Icon=/home/frisco/tarrasch-chess-gui/src/Tarrasch4Squares.ico
+Comment=By Grabthar's hammer
+Exec=/path/to/tarrasch-chess-gui/tarrasch
+Icon=/path/to/tarrasch-chess-gui/src/Tarrasch4Squares.ico
 Terminal=false
 Type=Application
 Categories=Utility;Application;
