@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=TarraschChessGUI
+Comment=Surrender Dorothy
+Exec=/path/to/tarrasch-chess-gui/tarrasch
+Icon=/path/to/tarrasch-chess-gui/src/Tarrasch4Squares.ico
+Terminal=false
+Type=Application
+Categories=Utility;Application;
