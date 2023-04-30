@@ -1,7 +1,7 @@
 # tarrasch-chess-gui-desktop-file
 Linux desktop entry file to generate executable icon after building from source 
 
-## What is Tarrasch Chess GUI
+## What is Tarrasch Chess GUI?
 
 [Tarrasch Chess GUI](https://github.com/billforsternz/tarrasch-chess-gui) is described by its developer as a "simple desktop chess workbench", enabling PGN production (with its own database), multiple UCI for analysis and play (why does anyone do that these days).
 
